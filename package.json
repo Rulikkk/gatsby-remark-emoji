@@ -1,0 +1,12 @@
+{
+  "name": "gatsby-remark-emoji",
+  "version": "0.0.1",
+  "description": "Add slack-style emoji to gatsby's markdown :thumbs_up:.",
+  "main": "index.js",
+  "author": "Rustem Mustafin <mustafin.rustem@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "emojione": "^3.1.2"
+  }
+}
