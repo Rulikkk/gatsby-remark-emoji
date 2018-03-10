@@ -8,5 +8,11 @@
   "dependencies": {
     "bluebird": "^3.5.0",
     "emojione": "^3.1.2"
-  }
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "emoji",
+    "markdown"
+  ]
 }
