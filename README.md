@@ -60,6 +60,7 @@ This is config with options:
 - Merged [#1](https://github.com/Rulikkk/gatsby-remark-emoji/pull/1) that adds more conversion options
 - Improved docs about conversion options and added changelog
 - Added keywords to `package.json` per [gatsbyjs/gatsby#4394](https://github.com/gatsbyjs/gatsby/issues/4394)
+- Added repository to `package.json`
 
 ## v0.0.1
 Initial version. Works only with slack-style to Unicode
