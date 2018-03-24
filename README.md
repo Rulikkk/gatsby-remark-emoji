@@ -2,7 +2,7 @@
 
 Adds slack-style emoji to gatsby's markdown 👍!
 
-See [usage](#usage) and [configuration](#configuration) below. By configuring, you can make this plugin to convert:
+See [usage](#usage), [configuration](#configuration) and [changelog](#changelog) below. By configuring, you can make this plugin to convert:
 - Slack-style emoji to gatsby's markdown: `:smile: -> 😀`
 - Unicode emoji to short-code: `😀 -> :smile:`
 - Slack-style and/or Unicode emoji to images
@@ -53,3 +53,13 @@ This is config with options:
         }
       },
 ```
+
+# Changelog
+
+## v0.0.2
+- Merged [#1](https://github.com/Rulikkk/gatsby-remark-emoji/pull/1) that adds more conversion options
+- Improved docs about conversion options and added changelog
+- Added keywords to `package.json` per [gatsbyjs/gatsby#4394](https://github.com/gatsbyjs/gatsby/issues/4394)
+
+## v0.0.1
+Initial version. Works only with slack-style to Unicode
