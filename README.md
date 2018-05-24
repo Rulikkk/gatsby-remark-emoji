@@ -7,6 +7,8 @@ See [usage](#usage), [configuration](#configuration) and [changelog](#changelog)
 - Unicode emoji to short-code: `😀 -> :smile:`
 - Slack-style and/or Unicode emoji to images
 
+[![Buy me a coffee!](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/rm)
+
 # Usage
 
 1.  Install plugin to your site:
