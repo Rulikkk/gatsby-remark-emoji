@@ -1,6 +1,6 @@
 {
   "name": "gatsby-remark-emoji",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Add slack-style emoji to gatsby's markdown :thumbs_up:.",
   "main": "index.js",
   "author": "Rustem Mustafin <mustafin.rustem@gmail.com>",
