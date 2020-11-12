@@ -1,4 +1,4 @@
-const emoji = require(`emojione`);
+const joyPixels = require(`emoji-toolkit`);
 const Promise = require(`bluebird`);
 
 const defaultPluginOptions = {
@@ -10,10 +10,10 @@ module.exports = {
   mutateSource: ({ markdownNode }, pluginOptions = defaultPluginOptions) => {
     const emojiConversion =
       pluginOptions.emojiConversion || defaultPluginOptions.emojiConversion;
-    emoji.ascii = !!pluginOptions.ascii;
+    joyPixels.ascii = !!pluginOptions.ascii;
     return new Promise((resolve, reject) => {
       try {
-        markdownNode.internal.content = emoji[emojiConversion](
+        markdownNode.internal.content = joyPixels[emojiConversion](
           markdownNode.internal.content,
         );
         resolve();
