@@ -2,10 +2,12 @@
 # yarn lockfile v1
 
 
-bluebird@^3.5.0:
-  version "3.5.0"
-  resolved "https://registry.yarnpkg.com/bluebird/-/bluebird-3.5.0.tgz#791420d7f551eea2897453a8a77653f96606d67c"
+"bluebird@^3.5.0":
+  "integrity" "sha1-eRQg1/VR7qKJdFOop3ZT+WYG1nw="
+  "resolved" "https://registry.npmjs.org/bluebird/-/bluebird-3.5.0.tgz"
+  "version" "3.5.0"
 
-emojione@^3.1.2:
-  version "3.1.2"
-  resolved "https://registry.yarnpkg.com/emojione/-/emojione-3.1.2.tgz#991e30c80db4b1cf15eacb257620a7edce9c6ef4"
+"emojione@^3.1.2":
+  "integrity" "sha1-mR4wyA20sc8V6ssldiCn7c6cbvQ="
+  "resolved" "https://registry.npmjs.org/emojione/-/emojione-3.1.2.tgz"
+  "version" "3.1.2"
