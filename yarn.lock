@@ -7,7 +7,8 @@
   "resolved" "https://registry.npmjs.org/bluebird/-/bluebird-3.5.0.tgz"
   "version" "3.5.0"
 
-"emojione@^3.1.2":
-  "integrity" "sha1-mR4wyA20sc8V6ssldiCn7c6cbvQ="
-  "resolved" "https://registry.npmjs.org/emojione/-/emojione-3.1.2.tgz"
-  "version" "3.1.2"
+
+emoji-toolkit@^6.0.1:
+  version "6.0.1"
+  resolved "https://registry.yarnpkg.com/emoji-toolkit/-/emoji-toolkit-6.0.1.tgz#7dec51f79dd44863d86c647a805ebc41cea82a5a"
+  integrity sha512-QZZq0beHg753JxcBt89UBFqzwYNuMtXhNO+jY3viSAndewmn9biTE5glaro1RA0uWJ4hKqw4k1Mboe1M6sGkMA==
