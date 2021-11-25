@@ -61,6 +61,9 @@ This is config with options:
 
 # Changelog
 
+## v0.0.4
+- Migrate from `emojione` to `joypixels`.Following the migrating [doc](https://github.com/joypixels/emoji-toolkit/blob/master/UPGRADE.md)
+
 ## v0.0.2
 - Merged [#1](https://github.com/Rulikkk/gatsby-remark-emoji/pull/1) that adds more conversion options
 - Improved docs about conversion options and added changelog
